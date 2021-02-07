@@ -1,6 +1,7 @@
 # test_application
 
-A new Flutter project.
+A new Flutter project created while learning flutter.
+This is a follow along with the tutor Shaun.
 
 ## Getting Started
 
